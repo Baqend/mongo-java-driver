@@ -18,22 +18,22 @@
   </url>
   
   <url>
-    <loc>/mongo-java-driver/2.13/getting-started/installation-guide/</loc>
-    <lastmod>2015-03-17T15:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/mongo-java-driver/2.13/</loc>
-    <lastmod>2015-03-17T15:36:56+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/mongo-java-driver/2.13/getting-started/quick-tour/</loc>
     <lastmod>2015-03-17T15:36:56+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/mongo-java-driver/2.13/getting-started/installation-guide/</loc>
+    <lastmod>2015-03-17T15:36:56+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/mongo-java-driver/2.13/getting-started/quick-tour-admin/</loc>
+    <lastmod>2015-03-17T15:36:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mongo-java-driver/2.13/</loc>
     <lastmod>2015-03-17T15:36:56+00:00</lastmod>
   </url>
   
